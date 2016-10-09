@@ -14,7 +14,7 @@ npm i -S hexo-generator-json-feed
 Hexo will run the generator *automagically* when you run `hexo serve` or `hexo generate`.
 :smirk:
 
-Using the default settings, the `content.json` file looks like the following structure:
+Using the default settings, the `feed.json` file looks like the following structure:
 
 ```javascript
 {
